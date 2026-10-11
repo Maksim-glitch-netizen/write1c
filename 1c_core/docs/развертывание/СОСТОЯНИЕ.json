@@ -1,0 +1,32 @@
+{
+  "schema_version": 3,
+  "status": "new",
+  "bound_root": null,
+  "owner_chat": null,
+  "updated_at": null,
+  "deployment": {
+    "completed": false,
+    "completed_at": null,
+    "installation_artifacts": [],
+    "cleanup": {
+      "status": "pending",
+      "completed_at": null,
+      "preserved_items": []
+    }
+  },
+  "stages": {
+    "inspection": "pending",
+    "questionnaire": "pending",
+    "plan": "pending",
+    "core_materials": "pending",
+    "skills": "pending",
+    "mcp": "pending",
+    "project_rules": "pending",
+    "verification": "pending"
+  },
+  "answered_blocks": [],
+  "checks": [],
+  "blockers": [],
+  "next_action": "Прочитать README, профиль и состояние; для установки из шаблона выбрать целевую папку одним вопросом, незавершённую настройку продолжить по инструкции. После deployment.completed=true повторную установку не запускать, при необходимости продолжить только очистку или устранение конкретного блокера.",
+  "readiness_scope": null
+}

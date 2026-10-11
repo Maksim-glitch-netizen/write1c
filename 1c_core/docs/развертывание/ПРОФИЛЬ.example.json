@@ -1,0 +1,97 @@
+{
+  "schema_version": 2,
+  "questionnaire": {
+    "questions_per_turn": 1,
+    "prefer_choice_answers": true
+  },
+  "project": {
+    "name": null,
+    "configuration": "1С:Управление холдингом",
+    "configuration_version": null,
+    "compatibility_mode": null,
+    "work_mode": null
+  },
+  "paths": {
+    "project_root": ".",
+    "core": "1c_core",
+    "work_files": "1c_works_files"
+  },
+  "platform": {
+    "execution_os": null,
+    "version": null,
+    "executable": null
+  },
+  "database": {
+    "kind": null,
+    "file_path": null,
+    "server": null,
+    "infobase": null,
+    "environment": "development",
+    "auth": {
+      "kind": "infobase",
+      "username": null,
+      "password_ref": null
+    },
+    "permissions": {
+      "read": null,
+      "dump_configuration": null,
+      "load_configuration": null,
+      "update_database_configuration": null,
+      "business_data_write": false
+    }
+  },
+  "main_configuration": {
+    "editable": null,
+    "support_constraints": null,
+    "baseline_source": null,
+    "repository": {
+      "exists": null,
+      "enabled": null,
+      "auth_kind": "credentials",
+      "address": null,
+      "username": null,
+      "password_ref": null,
+      "bound": null,
+      "permissions": {
+        "get_configuration": null,
+        "capture_objects": null,
+        "commit_objects": null
+      }
+    }
+  },
+  "extensions_discovery": {
+    "method": null
+  },
+  "extensions": [],
+  "extensions_confirmed": false,
+  "skills": {
+    "bundled_path": "1c_core/skills",
+    "installation_scope": null,
+    "installation_root": null,
+    "providers": []
+  },
+  "mcp": [],
+  "mcp_confirmed": false,
+  "memory": {
+    "enabled": null,
+    "server": null,
+    "project_id": null,
+    "include_global": false
+  },
+  "development_rules": {
+    "message_languages": [
+      "ru",
+      "en"
+    ],
+    "change_marker": null,
+    "task_naming": {
+      "pattern": "<НомерЗадачи>_<КраткоеОписание>",
+      "without_number": "ai_<КраткоеОписание>",
+      "description_max_length": 15
+    },
+    "git_enabled": null,
+    "git_remote": null,
+    "branch_policy": null,
+    "additional_constraints": []
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "name": "1c-configurator-batch-8-3-27",
+  "version": "2.1.1",
+  "built_at": "2026-10-11",
+  "platform_scope": "1C:Enterprise 8.3.27",
+  "packaging": "anonymized-template",
+  "validation": {
+    "local_static_validation": "passed",
+    "live_1c_execution": "not_performed",
+    "mcp_connection": "not_performed",
+    "repository_connection": "not_performed",
+    "client_registration": "not_performed",
+    "other_platform_versions": "not_verified"
+  },
+  "files": {
+    "BUILD-REPORT.md": {
+      "bytes": 2968,
+      "sha256": "1a8fe9496b5378b758ad4013929766d0b85f13ef52527bd302706b5e812acb4e"
+    },
+    "install.ps1": {
+      "bytes": 1486,
+      "sha256": "1776f9fbd6e4e95e8856419a2f9fb0e0f618e25ee203d09bd1218cb5a928f105"
+    },
+    "README.md": {
+      "bytes": 3937,
+      "sha256": "b43aad34495d0077fecb41dd76207b08164046824e54ce27af4f0672140eb06c"
+    },
+    "references/00-index.md": {
+      "bytes": 2860,
+      "sha256": "0c9a934af24d787375c75f993d019c1d65616c89689574e157526cc1385ecdad"
+    },
+    "references/01-common-cli.md": {
+      "bytes": 4521,
+      "sha256": "c46715250c57ae93684935505e28dd890be45c6f76f42800f25b3f5028fb2395"
+    },
+    "references/02-xml-dump.md": {
+      "bytes": 5770,
+      "sha256": "fe1e8bbe4f9f894fb82723ee16e3bd3a80a36c71a2a37b785a287f7b1a117225"
+    },
+    "references/03-xml-load.md": {
+      "bytes": 4556,
+      "sha256": "bfd573449bb4e70b86685f0041cf0100bbffc290c3e76577884087cda3e58823"
+    },
+    "references/04-repository-read-bind.md": {
+      "bytes": 5035,
+      "sha256": "aad7da926f47dcc3f15b30dc401d78bfbdaf8fba6190dabffeaf8a33a10ae5d2"
+    },
+    "references/05-repository-write.md": {
+      "bytes": 3535,
+      "sha256": "7ce9db35dd6d3e6df5c304b181276e6a09571085a490ffd7e9c82226e0ca17f7"
+    },
+    "references/06-update-db-cfg.md": {
+      "bytes": 4302,
+      "sha256": "eff5c24bc89f5d90cdc3fc0dfcf3d6637548ff529f69ae17881d5a181deb166f"
+    },
+    "references/07-checks.md": {
+      "bytes": 2203,
+      "sha256": "90ba66303c2f2ecd0a1279329fc872e1995eb9467b51bd1013e3bbc3376eaa52"
+    },
+    "references/08-results-errors.md": {
+      "bytes": 4791,
+      "sha256": "1626e5c34f1b4282064bbb545c85a9b4f581504d5a9d1db1d44f90d16e0284a8"
+    },
+    "references/09-workflows.md": {
+      "bytes": 8271,
+      "sha256": "7d2f5ef6ebee388b2f8fb762ad5cf9dbb2ace333e1c05b53430aa7abaa98346e"
+    },
+    "references/10-source-register.md": {
+      "bytes": 6649,
+      "sha256": "572c175c2deaac2a9585d50a84ff0c1f27ace5565b14c6530816e8753a689220"
+    },
+    "references/11-merge-cfg.md": {
+      "bytes": 6421,
+      "sha256": "cfd11473b99f4681d6cf8d8e5fded40c19d795551e65601d2f6732f192f61272"
+    },
+    "references/archive/verified-documentation-full.md": {
+      "bytes": 81437,
+      "sha256": "44cd598e1c002b8909bb8fe297d07aea6a8f3e7491b8a476edbf976b4d578e8e"
+    },
+    "scripts/search-docs.ps1": {
+      "bytes": 1477,
+      "sha256": "c9a27299ec895a0ae5aa8582530a7da4dc5d013066721ef5b8e634f47fb339ef"
+    },
+    "scripts/validate-skill.ps1": {
+      "bytes": 8258,
+      "sha256": "a0d86c51f00ce2527e711f17f083ad6e6860a420a46dde362e2be45f79e1e002"
+    },
+    "SKILL.md": {
+      "bytes": 11549,
+      "sha256": "cb170ebd65ce0197ba9102236966582b93880cf8e7f4fe0b0313cccb87efe2de"
+    },
+    "tests/test-cases.md": {
+      "bytes": 2615,
+      "sha256": "fe4cc50f775c03334e014e2eae692a9dc5ceb0d2f89a8231bbfc893f0195bb66"
+    }
+  }
+}
